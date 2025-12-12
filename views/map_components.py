@@ -1,4 +1,4 @@
-# views/map_components.py
+#  views/map_components.py
 import streamlit as st
 import folium
 from folium import plugins

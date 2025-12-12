@@ -1,4 +1,4 @@
-# osm_service.py
+#  osm_service.py
 import requests
 import streamlit as st
 from geopy.geocoders import Nominatim

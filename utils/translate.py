@@ -1,4 +1,4 @@
-# utils.py
+#  utils.py
 import streamlit as st
 from deep_translator import GoogleTranslator
 from config.config import BASE_TEXTS
